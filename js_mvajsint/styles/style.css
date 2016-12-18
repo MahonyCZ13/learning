@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* styles for ex_11.0 */
+.IdHighlight {
+    background-color: yellow; 
+}
+.pHighlight {
+    background-color: lightblue;
+}
+.cHighlight {
+    background-color: lightgreen;
+}
+.comboHighlight {
+    background-color: lightpink;
+}
+.sliHighlight {
+    background-color: lightsalmon;
+}
+.nliHighlight {
+    background-color: lightgrey;
+}
+.sibliHighlight {
+    background-color: lightseagreen;
+}
+.parHighlight {
+    background-color: lightskyblue;
+}
+.childHighlight {
+     background-color: limegreen;
+}
+.attHighlight {
+     background-color: goldenrod;
+}
+.headHighlight {
+     background-color: violet;
+}
+
+/* styles for ex_12.0 */
+#game {
+    width: 100px;
+    /*float: left;*/
+}
+#again {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding-top: 5px;
+   /*float: right;*/
+}
+.hoverOut {
+    color: red;
+    background-color: yellow;
+}
+.hoverIn {
+    background-color: red;
+    color: yellow;
+}

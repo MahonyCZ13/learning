@@ -1,0 +1,11 @@
+1. Install Python
+
+2. If after you install it python still isn't recognized then in PowerShell enter this:
+
+   [ENVIRONMENT]::SETENVIRONMENTVARIABLE("PATH", "$ENV:PATH;C:\PYTHON27", "USER")
+
+3. Close PowerShell and then start it again to make sure Python now runs. If it doesn't, restart may be required.
+
+4. Type quit() and press Enter to exit python.
+
+5. Now you can use 'python' keyword to run pyton scripts from every working directory
