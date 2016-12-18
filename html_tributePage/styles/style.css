@@ -1,0 +1,15 @@
+.header{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/58/1799_Clement_Cruttwell_Map_of_Europe_-_Geographicus_-_Europe-cruttwell-1799.jpg");
+  background-position: center;
+  height: 550px;
+}
+.col-md-6{
+  background-color: #eeeeee;
+}
+.down {
+  border-bottom: 1px solid grey;
+  padding-bottom: 20px;
+}
+.out {
+  margin-top: 20px;
+}
