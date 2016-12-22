@@ -1,10 +1,11 @@
 # Even more practice
 
 print('\nEven more practice\n')
+# This code can be pasted to python interpreter for further results:
 
 import ex25_supportFile
 
-sentence = 'All good things come to those who wait.'
+sentence = 'This is not even close to that.'
 
 words = ex25_supportFile.break_words(sentence)
 words
