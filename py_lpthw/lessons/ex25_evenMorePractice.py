@@ -8,7 +8,7 @@ import ex25_supportFile
 sentence = 'This is not even close to that.'
 
 words = ex25_supportFile.break_words(sentence)
-words
+words 
 
 sorted_words = ex25_supportFile.sort_words(words)
 sorted_words
