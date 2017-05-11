@@ -46,7 +46,7 @@ function sandbox() {
 
     // ex_0.4 chess board
     function chess() {
-        var size = 8;
+        var size = 10;
         var board = "";
 
         for (var y = 0; y < size; y++) {
