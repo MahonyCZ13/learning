@@ -25,3 +25,7 @@ This repository is for tracking my learning progress and as a referal.
 * [Learn Python the Hard Way](https://www.learnpythonthehardway.org/) (py_lpthw)
 * [The Odin Project - Project #1 (Google homepage)](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) (html_googleHomepage)
 * [Free Code Camp - Project #1 (Tribute page)](https://www.freecodecamp.com/challenges/build-a-tribute-page) (html_tributePage) [working example on CodePen](https://codepen.io/MahonyCZ13/pen/GqLWaa)
+
+**Examples** :
+
+* Python script examples in folder py_examples (basic scripts as notation)
