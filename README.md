@@ -16,6 +16,7 @@ This repository is for tracking my learning progress and as a referal.
 * HTML5
 * JavaScript
 * Python
+* C#
 
 **Resources** :
 
