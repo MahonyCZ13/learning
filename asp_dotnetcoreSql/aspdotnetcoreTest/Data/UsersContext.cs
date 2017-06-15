@@ -7,8 +7,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace aspdotnetcoreTest.Data
 {
-    public class UsersContext
+    public class UsersContext : DbContext
     {
+        public UsersContext(DbContextOptions<UsersContext> options) : base(options)
+        {
+        }
 
+        public DbSet<Users> Users { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Users>().ToTable("Users");
+        }
     }
 }
