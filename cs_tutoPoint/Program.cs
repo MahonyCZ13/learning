@@ -25,6 +25,9 @@ namespace csharptuto
             // Lesson 12.2
             doWhile.execdoWhile();
 
+            // Lesson 12.3
+            nestedLoop.execNest();
+
             // Lesson 13
             //ExecuteRectangle lesson8 = new ExecuteRectangle(); - We don't need to call it because the execRec() method is static.
             ExecuteRectangle.execRec();
