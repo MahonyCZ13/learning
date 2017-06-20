@@ -18,6 +18,10 @@ namespace csharptuto
             whileLoop lesson12 = new whileLoop();
             lesson12.execLoop();
 
+            // Lesson 12.1
+            forLoop lesson121 = new forLoop();
+            lesson121.execForLoop(); 
+
             // Lesson 13
             //ExecuteRectangle lesson8 = new ExecuteRectangle(); - We don't need to call it because the execRec() method is static.
             ExecuteRectangle.execRec();
