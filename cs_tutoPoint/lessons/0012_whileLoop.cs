@@ -12,7 +12,7 @@ namespace csharptuto.lessons
 
             while(a < 20)
             {
-                Console.WriteLine($"Value of a is {a}");
+                Console.WriteLine($"Value of A is {a}");
                 a++;
             }
             Console.ReadLine();
