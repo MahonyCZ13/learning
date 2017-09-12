@@ -29,7 +29,7 @@ namespace csharptuto
             nestedLoop.execNest();
 
             // Lesson 13
-            //ExecuteRectangle lesson8 = new ExecuteRectangle(); - We don't need to call it because the execRec() method is static.
+            //ExecuteRectangle lesson13 = new ExecuteRectangle(); - We don't need to call it because the execRec() method is static.
             ExecuteRectangle.execRec();
             
         }
