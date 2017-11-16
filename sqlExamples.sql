@@ -1,3 +1,4 @@
+
 /* MARIADB samples */
 
 /* Inner join */
@@ -49,3 +50,9 @@ ALTER TABLE
 test3 
 ADD COLUMN 
 itemNumber INT NOT NULL;
+
+/* Drop column */
+ALTER TABLE 
+test3 
+DROP COLUMN 
+itemSeriesId;
