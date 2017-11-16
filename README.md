@@ -1,4 +1,5 @@
-# Learning repository
+
+*# Learning repository
 
 This repository is for tracking my learning progress and as a referal.
 
@@ -30,3 +31,4 @@ This repository is for tracking my learning progress and as a referal.
 **Examples** :
 
 * Python script examples in folder py_examples (basic scripts as notation)
+* SQL script examples in root folder
