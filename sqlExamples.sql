@@ -1,3 +1,4 @@
+
 /* Inner join */
 SELECT * FROM books INNER JOIN authors ON books.AuthorId = authors.id WHERE authors.authorName = 'J.R.R.Tolkien';
 /*
@@ -26,7 +27,18 @@ CREATE TABLE IF NOT EXISTS test3 (
 /* Insert Into */
 INSERT INTO 
     test3 (itemName, itemDesc, itemDate, itemNumber)
-    VALUES
-        ('Apple','A fruit','2017-11-16',3),
-        ('Lemon','A another fruit','2017-10-18',6),
-        ('A car','Expensive object', '2017-03-01',1);
+VALUES
+    ('Apple','A fruit','2017-11-16',3),
+    ('Lemon','A another fruit','2017-10-18',6),
+    ('A car','Expensive object', '2017-03-01',1);
+
+/* Variable with current date */
+SET @today = CURDATE();
+
+INSERT INTO test3 (itemName, itemDesc, itemDate, itemNumber)
+VALUES ('Today', 'A day', @today, 17);
+
+/* Select only todays */
+SELECT * 
+FROM test3
+WHERE itemDate = CURDATE(); 
