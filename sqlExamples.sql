@@ -1,3 +1,4 @@
+/* MARIADB samples */
 
 /* Inner join */
 SELECT * FROM books INNER JOIN authors ON books.AuthorId = authors.id WHERE authors.authorName = 'J.R.R.Tolkien';
@@ -42,3 +43,9 @@ VALUES ('Today', 'A day', @today, 17);
 SELECT * 
 FROM test3
 WHERE itemDate = CURDATE(); 
+
+/* Add column*/
+ALTER TABLE 
+test3 
+ADD COLUMN 
+itemNumber INT NOT NULL;
