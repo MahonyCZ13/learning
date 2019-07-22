@@ -1,9 +1,0 @@
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\bin\Debug\netcoreapp1.1\aspdotnetcoreTest.deps.json
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\bin\Debug\netcoreapp1.1\aspdotnetcoreTest.runtimeconfig.json
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\bin\Debug\netcoreapp1.1\aspdotnetcoreTest.runtimeconfig.dev.json
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\bin\Debug\netcoreapp1.1\aspdotnetcoreTest.dll
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\bin\Debug\netcoreapp1.1\aspdotnetcoreTest.pdb
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\obj\Debug\netcoreapp1.1\aspdotnetcoreTest.csprojResolveAssemblyReference.cache
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\obj\Debug\netcoreapp1.1\aspdotnetcoreTest.AssemblyInfo.cs
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\obj\Debug\netcoreapp1.1\aspdotnetcoreTest.dll
-C:\Users\Petr\Documents\Projects\repos\learning\asp_dotnetcoreSql\aspdotnetcoreTest\obj\Debug\netcoreapp1.1\aspdotnetcoreTest.pdb

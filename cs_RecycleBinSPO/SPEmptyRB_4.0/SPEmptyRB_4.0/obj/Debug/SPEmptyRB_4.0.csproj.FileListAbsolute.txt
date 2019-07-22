@@ -1,2 +1,0 @@
-C:\Users\pmaronek\Documents\SPEmptyRB_4.0\SPEmptyRB_4.0\SPEmptyRB_4.0\obj\Debug\SPEmptyRB_4.0.csprojResolveAssemblyReference.cache
-C:\Users\pmaronek\Documents\projects_D-ploy\SPEmptyRB_4.0\SPEmptyRB_4.0\SPEmptyRB_4.0\obj\Debug\SPEmptyRB_4.0.csprojResolveAssemblyReference.cache
