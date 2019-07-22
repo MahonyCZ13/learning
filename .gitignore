@@ -622,4 +622,7 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
+# Compiled C files
+**/c_tuto/*.out
+
 # End of https://www.gitignore.io/api/python,dotnetcore,aspnetcore,visualstudio,visualstudiocode
