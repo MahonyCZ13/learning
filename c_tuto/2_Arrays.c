@@ -11,7 +11,7 @@ int main() {
 
     avarage = (grades[0] + grades[1] + grades[2]) / 3;
 
-    printf("The avarage of the 3 grades is: %d", avarage);
+    printf("The avarage of the 3 grades is: %d\n", avarage);
 
     return 0;
 }
