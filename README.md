@@ -18,6 +18,8 @@ This repository is for tracking my learning progress and as a referal.
 * JavaScript
 * Python
 * C#
+* C
+* C++
 
 **Resources** :
 
